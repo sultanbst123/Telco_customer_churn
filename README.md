@@ -3,7 +3,7 @@
 Memprediksi churn customer
 
 Terbagi 2 notebook:
--data analysis with python
--data modeling with python
+(1)data analysis with python
+(2)data modeling with python
 
 Dataset: https://www.kaggle.com/blastchar/telco-customer-churn
