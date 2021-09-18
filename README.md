@@ -1,6 +1,6 @@
 # Telco_customer_churn
 
-Memprediksi churn customer
+Memprediksi churn telco customer
 
 Terbagi 2 notebook:
 # (1)data analysis with python
