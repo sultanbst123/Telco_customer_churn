@@ -11,4 +11,5 @@ https://github.com/sultanbst123/Telco_customer_churn/blob/main/Churn%20customer.
 
 Wait
 
-Dataset: https://www.kaggle.com/blastchar/telco-customer-churn
+# Dataset dan informasi:
+https://www.kaggle.com/blastchar/telco-customer-churn
